@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "array",
+      "description": "what single primary category of geospatial imagery does this image fit info?",
+      "enum": [],
+      "maxContains": 1
+    }
+  }
+}

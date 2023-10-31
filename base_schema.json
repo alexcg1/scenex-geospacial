@@ -3,7 +3,7 @@
   "properties": {
     "category": {
       "type": "array",
-      "description": "Which land use classification does this geospatial image fit into?",
+      "description": "Which single main category of geospatial imagery does this image belong to?",
       "enum": [],
       "maxContains": 1
     }

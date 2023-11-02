@@ -1,7 +1,5 @@
 ## SceneXplain for geospatial applications
 
-A Jupyter notebook to classify satellite scenery using SceneXplain
+A Jupyter notebook to classify satellite scenery using SceneXplain. You can use it on [Google Colab](https://colab.research.google.com/github/alexcg1/scenex-geospatial/blob/main/notebook.ipynb)
 
-1. `get_data.sh`
-2. Create a file called `.env` in the repo root, and populate it with `SCENEX_TOKEN=your_token`
-3. Run notebook
+You will need to sign up for an API key on https://scenex.jina.ai, and put it in the appropriate cell of the notebook.
